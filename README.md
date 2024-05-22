@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. John Doe - Research Publications</title>
+    <title>Dr. John Doe - Projects</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -72,7 +72,7 @@
 </head>
 <body>
     <header>
-        <h1>Dr. John Doe - Research Publications</h1>
+        <h1>Dr. John Doe - Projects</h1>
     </header>
     <div class="container">
         <div class="bio">
@@ -81,42 +81,32 @@
         </div>
 
         <div class="section">
-            <h2>Machine Learning Projects</h2>
+            <h2>Publications</h2>
             <div class="project">
-                <img src="path/to/project1_cover.jpg" alt="Project 1 Cover Photo">
-                <h3>Project Title 1</h3>
-                <p>Short description of the project. This project is about creating a responsive web design...</p>
+                <img src="path/to/publication1_cover.jpg" alt="Publication 1 Cover Photo">
+                <h3>Publication Title 1</h3>
+                <p>Short description of the publication. This paper discusses...</p>
                 <div class="links">
-                    <a href="https://github.com/yourusername/project1" target="_blank">GitHub</a>
-                    <a href="https://scholar.google.com/scholar?q=related+work+on+project1" target="_blank">Google Scholar</a>
-                    <a href="path/to/yourproject1.pdf" target="_blank">PDF</a>
+                    <a href="https://link-to-publication.com" target="_blank">Full Text</a>
+                    <a href="https://github.com/yourusername/publication1" target="_blank">GitHub</a>
+                    <a href="path/to/publication1.pdf" target="_blank">PDF</a>
                 </div>
             </div>
-            <div class="project">
-                <img src="path/to/project2_cover.jpg" alt="Project 2 Cover Photo">
-                <h3>Project Title 2</h3>
-                <p>Short description of the project. This project explores machine learning algorithms for data analysis...</p>
-                <div class="links">
-                    <a href="https://github.com/yourusername/project2" target="_blank">GitHub</a>
-                    <a href="https://scholar.google.com/scholar?q=related+work+on+project2" target="_blank">Google Scholar</a>
-                    <a href="path/to/yourproject2.pdf" target="_blank">PDF</a>
-                </div>
-            </div>
+            <!-- Add more publication projects as needed -->
         </div>
 
         <div class="section">
-            <h2>Mobile Applications</h2>
+            <h2>Exploratory Projects</h2>
             <div class="project">
-                <img src="path/to/project3_cover.jpg" alt="Project 3 Cover Photo">
-                <h3>Project Title 3</h3>
-                <p>Short description of the project. This project involves developing a mobile application for task management...</p>
+                <img src="path/to/exploration1_cover.jpg" alt="Exploration 1 Cover Photo">
+                <h3>Exploration Title 1</h3>
+                <p>Short description of the exploration project. This project explores...</p>
                 <div class="links">
-                    <a href="https://github.com/yourusername/project3" target="_blank">GitHub</a>
-                    <a href="https://scholar.google.com/scholar?q=related+work+on+project3" target="_blank">Google Scholar</a>
-                    <a href="path/to/yourproject3.pdf" target="_blank">PDF</a>
+                    <a href="https://github.com/yourusername/exploration1" target="_blank">GitHub</a>
+                    <!-- You can add more links or information as needed -->
                 </div>
             </div>
-            <!-- Add more projects as needed -->
+            <!-- Add more exploratory projects as needed -->
         </div>
     </div>
 </body>

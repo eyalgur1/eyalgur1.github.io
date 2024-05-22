@@ -75,12 +75,12 @@
 </head>
 <body>
     <header>
-        <h1>Dr. John Doe - Projects</h1>
+        <h1>Dr. Eyal Gur - Projects</h1>
     </header>
     <div class="container">
         <div class="bio">
-            <img src="path/to/yourphoto.jpg" alt="Dr. John Doe">
-            <p>Short biographic description. Dr. John Doe is a researcher in the field of computer science with a focus on machine learning and data analysis...</p>
+            <img src="path/to/yourphoto.jpg" alt="Dr. Eyal Gur">
+            <p>Short biographic description. Dr. Eyal Gur is a researcher in the field of computer science with a focus on machine learning and data analysis...</p>
         </div>
 
         <div class="section">

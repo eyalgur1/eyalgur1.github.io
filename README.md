@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. John Doe - Projects</title>
+    <title>Eyal Gur - Projects</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -77,12 +77,12 @@
 </head>
 <body>
     <header>
-        <h1>Dr. John Doe - Projects</h1>
+        <h1>Eyal Gur - Projects</h1>
     </header>
     <div class="container">
         <div class="bio">
-            <img src="path/to/yourphoto.jpg" alt="Dr. John Doe">
-            <p>Short biographic description. Dr. John Doe is a researcher in the field of computer science with a focus on machine learning and data analysis...</p>
+            <img src="path/to/yourphoto.jpg" alt="Eyal Gur">
+            <p>Short biographic description. Eyal Gur is a researcher in the field of computer science with a focus on machine learning and data analysis...</p>
         </div>
 
         <div class="sections-container">

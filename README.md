@@ -49,7 +49,7 @@
             gap: 2rem;
         }
         .section {
-            flex-basis: 48%;
+            flex: 1;
             background-color: #f8f9fa;
             padding: 1.5rem;
             border-radius: 10px;
@@ -68,8 +68,8 @@
             margin-bottom: 0;
         }
         .project img {
-            width: 100px;
-            height: 100px;
+            width: 120px;
+            height: 120px;
             margin-right: 1rem;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);

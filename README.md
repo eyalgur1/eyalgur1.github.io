@@ -37,7 +37,7 @@
         .sections-container {
             display: flex;
             justify-content: space-between;
-            gap: 4rem; /* added gap between sections */
+            gap: 3rem; /* added gap between sections */
         }
         .section {
             flex-basis: 48%;

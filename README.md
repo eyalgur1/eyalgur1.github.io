@@ -38,6 +38,7 @@
         .sections-container {
             display: flex;
             justify-content: space-between;
+            gap: 2rem; /* added gap between sections */
         }
         .section {
             flex-basis: 48%;

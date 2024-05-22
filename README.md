@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -5,25 +6,27 @@
     <title>Eyal Gur - Projects</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Roboto', sans-serif;
             line-height: 1.6;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #f0f0f0;
+            color: #333;
         }
         header {
-            background-color: #333;
+            background-color: #343a40;
             color: #fff;
-            padding: 1rem;
+            padding: 2rem 0;
             text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
+            width: 85%;
+            margin: 2rem auto;
             padding: 2rem;
             background: #fff;
-            margin-top: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         .bio {
             text-align: center;
@@ -33,45 +36,65 @@
             border-radius: 50%;
             width: 150px;
             height: 150px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-bottom: 1rem;
+        }
+        .bio p {
+            font-size: 1.1rem;
+            color: #555;
         }
         .sections-container {
             display: flex;
             justify-content: space-between;
-            gap: 3rem; /* added gap between sections */
+            gap: 2rem;
         }
         .section {
             flex-basis: 48%;
+            background-color: #f8f9fa;
+            padding: 1.5rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+        }
+        .section h2 {
+            color: #343a40;
+            margin-bottom: 1rem;
         }
         .project {
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 1rem;
-            margin-bottom: 1rem;
             display: flex;
+            align-items: flex-start;
+            margin-bottom: 1.5rem;
         }
         .project:last-child {
-            border-bottom: none;
+            margin-bottom: 0;
         }
         .project img {
-            width: 150px;
-            height: 150px;
+            width: 100px;
+            height: 100px;
             margin-right: 1rem;
-            border-radius: 5px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
-        h2, h3 {
-            color: #333;
+        .project-info {
+            flex: 1;
         }
-        p {
+        .project-info h3 {
+            margin: 0 0 0.5rem;
+            color: #343a40;
+        }
+        .project-info p {
+            margin: 0 0 0.5rem;
             color: #555;
         }
-        a {
+        .links a {
+            display: inline-block;
+            margin-right: 10px;
             color: #007bff;
             text-decoration: none;
+            transition: color 0.3s;
         }
-        a:hover {
+        .links a:hover {
+            color: #0056b3;
             text-decoration: underline;
-        }
-        .links a {
-            margin-right: 10px;
         }
     </style>
 </head>
@@ -82,7 +105,7 @@
     <div class="container">
         <div class="bio">
             <img src="path/to/yourphoto.jpg" alt="Eyal Gur">
-            <p>Short biographic description. Eyal Gur is a researcher in the field of computer science with a focus on machine learning and data analysis...</p>
+            <p>I am currently pursuing a PhD in Data Science and Optimization, focusing on developing innovative solutions in machine learning, statistical estimation, and optimization algorithms.</p>
         </div>
 
         <div class="sections-container">
@@ -90,14 +113,15 @@
                 <h2>Publications</h2>
                 <div class="projects-container">
                     <div class="project">
-                        <img src="path/to/publication1_cover.jpg" alt="Publication 1 Cover Photo">
+                        <img src="path/to/sensor_network_cover.jpg" alt="Sensor Network Cover Photo">
                         <div class="project-info">
-                            <h3>Publication Title 1</h3>
-                            <p>Short description of the publication. This paper discusses...</p>
+                            <h3>Sensor Network Localization</h3>
+                            <p>A novel fast distributed and parallel method for wireless sensor network localization with data uncertainty.</p>
+                            <p><strong>Keywords:</strong> Statistical Estimation, Distributed Parallel Computing, Optimization Algorithms</p>
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
-                                <a href="https://github.com/yourusername/publication1" target="_blank">GitHub</a>
-                                <a href="path/to/publication1.pdf" target="_blank">PDF</a>
+                                <a href="https://github.com/eyalgur/sensor-network-localization" target="_blank">GitHub</a>
+                                <a href="path/to/sensor_network_publication.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>
@@ -109,12 +133,13 @@
                 <h2>Exploratory Projects</h2>
                 <div class="projects-container">
                     <div class="project">
-                        <img src="path/to/exploration1_cover.jpg" alt="Exploration 1 Cover Photo">
+                        <img src="path/to/autoencoder_optimizer_cover.jpg" alt="AutoEncoder Optimizer Cover Photo">
                         <div class="project-info">
-                            <h3>Exploration Title 1</h3>
-                            <p>Short description of the exploration project. This project explores...</p>
+                            <h3>AutoEncoder Optimizer</h3>
+                            <p>An auto-encoder neural network with a custom optimizer developed to tackle a toy image encoding and decoding task for computer vision, compared to ADAM.</p>
+                            <p><strong>Keywords:</strong> Deep Learning, Optimizers, Image Processing, Computer Vision, Python</p>
                             <div class="links">
-                                <a href="https://github.com/yourusername/exploration1" target="_blank">GitHub</a>
+                                <a href="https://github.com/eyalgur/autoencoder-optimizer" target="_blank">GitHub</a>
                                 <!-- You can add more links or information as needed -->
                             </div>
                         </div>

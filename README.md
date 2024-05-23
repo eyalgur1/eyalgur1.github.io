@@ -13,7 +13,7 @@
         body {
             font-family: 'Roboto', sans-serif;
             line-height: 1.6;
-            margin: -1rem;
+            margin: 0rem;
             padding: 0rem;
             background-color: #f0f0f0;
             color: #333;

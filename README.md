@@ -21,7 +21,7 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         .container {
-            width: 85%;
+            width: 100%;
             margin: 2rem auto;
             padding: 2rem;
             background: #fff;

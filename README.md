@@ -29,7 +29,7 @@
         .container {
             width: 100%;
             margin: 2rem auto;
-            max-width: 2000px;
+            max-width: 1800px;
             padding: 2rem;
             background: #fff;
             border-radius: 10px;

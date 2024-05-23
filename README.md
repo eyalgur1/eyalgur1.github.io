@@ -156,7 +156,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <img src="path/to/cover_image.jpg" alt="Wireless Sensor Network Cover Photo">
+                        <img src="images/SNL2.jpg" alt="Wireless Sensor Network Cover Photo">
                         <div class="project-info">
                             <h3>Wireless Sensor Network Localization</h3>
                             <p>Fully distributed to fully centralized novel algorithms for locating complex sensor networks.</p>

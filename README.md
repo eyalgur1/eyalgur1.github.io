@@ -15,7 +15,7 @@
         }
         header {
             background-color: #343a40;
-            max-width: 2000px;
+            max-width: 20px;
             color: #fff;
             padding: 2rem 0;
             text-align: center;

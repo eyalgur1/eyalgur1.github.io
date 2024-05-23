@@ -13,7 +13,7 @@
         body {
             font-family: 'Roboto', sans-serif;
             line-height: 1.6;
-            margin: 0rem;
+            margin: -1rem;
             padding: 0rem;
             background-color: #f0f0f0;
             color: #333;
@@ -21,6 +21,7 @@
         header {
             background-color: #343a40;
             max-width: 2000px;
+            margin: 1rem;
             color: #fff;
             padding: 2rem 0;
             text-align: center;

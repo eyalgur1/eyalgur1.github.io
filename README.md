@@ -20,7 +20,7 @@
         }
         header {
             background-color: #343a40;
-            max-width: 5000px;
+            max-width: 2000px;
             color: #fff;
             padding: 2rem 0;
             text-align: center;
@@ -29,7 +29,7 @@
         .container {
             width: 100%;
             margin: 2rem auto;
-            max-width: 1800px;
+            max-width: 2000px;
             padding: 2rem;
             background: #fff;
             border-radius: 10px;
@@ -52,7 +52,7 @@
         }
         .sections-container {
             display: flex;
-            max-width: 1800px;
+            max-width: 2000px;
             justify-content: space-between;
             gap: 2rem;
         }

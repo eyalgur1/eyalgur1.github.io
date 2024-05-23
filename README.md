@@ -15,6 +15,7 @@
         }
         header {
             background-color: #343a40;
+            width: 100%;
             max-width: 2000px;
             color: #fff;
             padding: 2rem 0;

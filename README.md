@@ -6,21 +6,21 @@
     <title>Eyal Gur - Projects</title>
     <style>
          * {
-            margin: 0;
-            padding: 0;
+            margin: 0rem;
+            padding: 0rem;
             box-sizing: border-box;
         }  
         body {
             font-family: 'Roboto', sans-serif;
             line-height: 1.6;
-            margin: 0;
-            padding: 0;
+            margin: 0rem;
+            padding: 0rem;
             background-color: #f0f0f0;
             color: #333;
         }
         header {
             background-color: #343a40;
-            max-width: 1800px;
+            max-width: 5000px;
             color: #fff;
             padding: 2rem 0;
             text-align: center;
@@ -28,7 +28,9 @@
         }
         .container {
             width: 100%;
+            margin: 2rem auto;
             max-width: 1800px;
+            padding: 2rem;
             background: #fff;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);

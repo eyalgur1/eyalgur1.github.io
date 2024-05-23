@@ -117,7 +117,7 @@
                 <h2>Publications</h2>
                 <div class="projects-container">
                     <div class="project">
-                        <img src="path/to/sensor_network_cover.jpg" alt="Sensor Network Cover Photo">
+                        <img src="images/SNL1.jpg" alt="Sensor Network Cover Photo">
                         <div class="project-info">
                             <h3>Sensor Network Localization</h3>
                             <p>A novel fast distributed and parallel method for wireless sensor network localization with data uncertainty.</p>

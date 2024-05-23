@@ -130,7 +130,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <img src="path/to/cover_image.jpg" alt="Target Detection Cover Photo">
+                        <img src="images/SSL1.jpg" alt="Target Detection Cover Photo">
                         <div class="project-info">
                             <h3>Target Detection</h3>
                             <p>Detection of targets with a novel algorithm in an asynchronous environment using TDoA.</p>
@@ -143,7 +143,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <img src="path/to/cover_image.jpg" alt="Synchronization and Localization Cover Photo">
+                        <img src="images/SSL2.jpg" alt="Synchronization and Localization Cover Photo">
                         <div class="project-info">
                             <h3>Synchronization and Localization of Targets</h3>
                             <p>Simultaneously synchronizing and locating source targets with a novel and fast algorithm.</p>
@@ -169,7 +169,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <img src="path/to/cover_image.jpg" alt="Image Deblurring Cover Photo">
+                        <img src="images/ID.jpg" alt="Image Deblurring Cover Photo">
                         <div class="project-info">
                             <h3>Image Deblurring</h3>
                             <p>Reconstructing a blurred image with a new algorithm with regularization.</p>
@@ -182,7 +182,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <img src="path/to/cover_image.jpg" alt="Neted Alternating Minimization Cover Photo">
+                        <img src="images/NAM.jpg" alt="Neted Alternating Minimization Cover Photo">
                         <div class="project-info">
                             <h3>Neted Alternating Minimization</h3>
                             <p>A novel and practical algorithmic framework that solves complex optimization problems.</p>
@@ -195,7 +195,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <img src="path/to/cover_image.jpg" alt="Optimality in Networks Cover Photo">
+                        <img src="images/MDS.jpg" alt="Optimality in Networks Cover Photo">
                         <div class="project-info">
                             <h3>Optimality in Networks and Multi-Dimensional Scaling</h3>
                             <p>Optimality of solutions in the sensor networks and dimensionality reduction in unsupervised learning.</p>
@@ -225,7 +225,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <img src="path/to/cover_image.jpg" alt="Computer Vision Cover Photo">
+                        <img src="images/CV.jpg" alt="Computer Vision Cover Photo">
                         <div class="project-info">
                             <h3>Computer Vision</h3>
                             <p>Algorithms and deep learning techniques for computer vision tasks with explanations and code, following the Hugging Face CV Course.</p>
@@ -237,7 +237,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <img src="path/to/cover_image.jpg" alt="Natural Language Processing Cover Photo">
+                        <img src="images/NLP.jpg" alt="Natural Language Processing Cover Photo">
                         <div class="project-info">
                             <h3>Natural Language Processing</h3>
                             <p>The transformer architecture for large language models explained from a mathematical perspective.</p>
@@ -249,7 +249,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <img src="path/to/cover_image.jpg" alt="Machine Learning Techniques Cover Photo">
+                        <img src="images/ML.jpg" alt="Machine Learning Techniques Cover Photo">
                         <div class="project-info">
                             <h3>Machine Learning Techniques</h3>
                             <p>Foundational techniques in machine learning for data science with explanations and python code.</p>
@@ -259,7 +259,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <img src="path/to/cover_image.jpg" alt="Radar Signal Processing Cover Photo">
+                        <img src="images/RSP.jpg" alt="Radar Signal Processing Cover Photo">
                         <div class="project-info">
                             <h3>Radar Signal Processing</h3>
                             <p>Detecting a moving target using Doppler maps with python code and explanations.</p>
@@ -271,7 +271,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <img src="path/to/cover_image.jpg" alt="Motion Planning Cover Photo">
+                        <img src="images/PL.jpg" alt="Motion Planning Cover Photo">
                         <div class="project-info">
                             <h3>Motion Planning</h3>
                             <p>Motion planning of a robot that maps corners in constant speed, with explanations.</p>

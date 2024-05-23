@@ -28,7 +28,7 @@
         }
         .container {
             width: 100%;
-            margin: 2rem auto;
+            margin: 0rem;
             max-width: 2000px;
             padding: 2rem;
             background: #fff;

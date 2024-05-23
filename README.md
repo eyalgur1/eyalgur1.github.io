@@ -21,8 +21,9 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         .container {
-            width: 110%;
+            width: 100%;
             margin: 2rem auto;
+            max-width: 1200px;
             padding: 2rem;
             background: #fff;
             border-radius: 10px;
@@ -68,8 +69,8 @@
             margin-bottom: 0;
         }
         .project img {
-            width: 120px;
-            height: 120px;
+            width: 170px;
+            height: 170px;
             margin-right: 1rem;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);

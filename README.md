@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -114,7 +113,7 @@
     <div class="container">
         <div class="bio">
             <img src="path/to/yourphoto.jpg" alt="Eyal Gur">
-            <p>I am currently pursuing a PhD in Data Science and Optimization, focusing on developing innovative solutions in machine learning, statistical estimation, and optimization algorithms.</p>
+            <p>I am a Ph.D. algorithm developer specializing in optimization problems within deep and machine learning, signal processing, data science, statistics, operations research, mathematics, and other related domains. <br> <br>My projects and ongoing endeavors, which include links to code repositories with detailed comments and PDF files, are listed below. Feel free to explore the provided links and don't hesitate to reach out to me for further information.</p>
         </div>
 
         <div class="sections-container">

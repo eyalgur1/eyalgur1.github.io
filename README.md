@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Eyal Gur - Projects</title>
     <style>
+         * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }  
         body {
             font-family: 'Roboto', sans-serif;
             line-height: 1.6;
@@ -15,7 +20,7 @@
         }
         header {
             background-color: #343a40;
-            max-width: 20px;
+            max-width: 1800px;
             color: #fff;
             padding: 2rem 0;
             text-align: center;

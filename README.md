@@ -21,7 +21,7 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         .container {
-            width: 100%;
+            width: 85%;
             margin: 2rem auto;
             padding: 2rem;
             background: #fff;
@@ -49,7 +49,7 @@
             gap: 2rem;
         }
         .section {
-            flex: 1;
+            flex-basis: 48%;
             background-color: #f8f9fa;
             padding: 1.5rem;
             border-radius: 10px;
@@ -85,6 +85,10 @@
             margin: 0 0 0.5rem;
             color: #555;
         }
+        .project-info .keywords {
+            font-size: 0.9rem;
+            color: #777;
+        }
         .links a {
             display: inline-block;
             margin-right: 10px;
@@ -117,7 +121,7 @@
                         <div class="project-info">
                             <h3>Sensor Network Localization</h3>
                             <p>A novel fast distributed and parallel method for wireless sensor network localization with data uncertainty.</p>
-                            <p><strong>Keywords:</strong> Statistical Estimation, Distributed Parallel Computing, Optimization Algorithms</p>
+                            <p class="keywords"><strong>Keywords:</strong> Statistical Estimation, Distributed Parallel Computing, Optimization Algorithms</p>
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur/sensor-network-localization" target="_blank">GitHub</a>
@@ -125,7 +129,84 @@
                             </div>
                         </div>
                     </div>
-                    <!-- Add more publication projects as needed -->
+                    <div class="project">
+                        <img src="path/to/cover_image.jpg" alt="Target Detection Cover Photo">
+                        <div class="project-info">
+                            <h3>Target Detection</h3>
+                            <p>Detection of targets with a novel algorithm in an asynchronous environment using TDoA.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Source Localization and Detection, Fast Optimization</p>
+                            <div class="links">
+                                <a href="https://link-to-publication.com" target="_blank">Full Text</a>
+                                <a href="https://github.com/eyalgur/target-detection" target="_blank">GitHub</a>
+                                <a href="path/to/target_detection_publication.pdf" target="_blank">PDF</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <img src="path/to/cover_image.jpg" alt="Synchronization and Localization Cover Photo">
+                        <div class="project-info">
+                            <h3>Synchronization and Localization of Targets</h3>
+                            <p>Simultaneously synchronizing and locating source targets with a novel and fast algorithm.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Source Synchronization, Statistical Estimation, Optimization Algorithms</p>
+                            <div class="links">
+                                <a href="https://link-to-publication.com" target="_blank">Full Text</a>
+                                <a href="https://github.com/eyalgur/synchronization-localization" target="_blank">GitHub</a>
+                                <a href="path/to/synchronization_localization_publication.pdf" target="_blank">PDF</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <img src="path/to/cover_image.jpg" alt="Wireless Sensor Network Cover Photo">
+                        <div class="project-info">
+                            <h3>Wireless Sensor Network Localization</h3>
+                            <p>Fully distributed to fully centralized novel algorithms for locating complex sensor networks.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Distributed Optimization, Parallel Computing, Network Simulations</p>
+                            <div class="links">
+                                <a href="https://link-to-publication.com" target="_blank">Full Text</a>
+                                <a href="https://github.com/eyalgur/wireless-sensor-network-localization" target="_blank">GitHub</a>
+                                <a href="path/to/wireless_sensor_network_publication.pdf" target="_blank">PDF</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <img src="path/to/cover_image.jpg" alt="Image Deblurring Cover Photo">
+                        <div class="project-info">
+                            <h3>Image Deblurring</h3>
+                            <p>Reconstructing a blurred image with a new algorithm with regularization.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Image Processing, Elastic Net, Image Reconstruction</p>
+                            <div class="links">
+                                <a href="https://link-to-publication.com" target="_blank">Full Text</a>
+                                <a href="https://github.com/eyalgur/image-deblurring" target="_blank">GitHub</a>
+                                <a href="path/to/image_deblurring_publication.pdf" target="_blank">PDF</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <img src="path/to/cover_image.jpg" alt="Neted Alternating Minimization Cover Photo">
+                        <div class="project-info">
+                            <h3>Neted Alternating Minimization</h3>
+                            <p>A novel and practical algorithmic framework that solves complex optimization problems.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Optimization, Fast Algorithms, Analysis</p>
+                            <div class="links">
+                                <a href="https://link-to-publication.com" target="_blank">Full Text</a>
+                                <a href="https://github.com/eyalgur/neted-alternating-minimization" target="_blank">GitHub</a>
+                                <a href="path/to/neted_alternating_minimization_publication.pdf" target="_blank">PDF</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <img src="path/to/cover_image.jpg" alt="Optimality in Networks Cover Photo">
+                        <div class="project-info">
+                            <h3>Optimality in Networks and Multi-Dimensional Scaling</h3>
+                            <p>Optimality of solutions in the sensor networks and dimensionality reduction in unsupervised learning.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Heuristics for Optimality, Unsupervised Learning, Sensor Networks, Algorithm Analysis</p>
+                            <div class="links">
+                                <a href="https://link-to-publication.com" target="_blank">Full Text</a>
+                                <a href="https://github.com/eyalgur/optimality-networks-scaling" target="_blank">GitHub</a>
+                                <a href="path/to/optimality_networks_scaling_publication.pdf" target="_blank">PDF</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -137,14 +218,70 @@
                         <div class="project-info">
                             <h3>AutoEncoder Optimizer</h3>
                             <p>An auto-encoder neural network with a custom optimizer developed to tackle a toy image encoding and decoding task for computer vision, compared to ADAM.</p>
-                            <p><strong>Keywords:</strong> Deep Learning, Optimizers, Image Processing, Computer Vision, Python</p>
+                            <p class="keywords"><strong>Keywords:</strong> Deep Learning, Optimizers, Image Processing, Computer Vision, Python</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur/autoencoder-optimizer" target="_blank">GitHub</a>
-                                <!-- You can add more links or information as needed -->
                             </div>
                         </div>
                     </div>
-                    <!-- Add more exploratory projects as needed -->
+                    <div class="project">
+                        <img src="path/to/cover_image.jpg" alt="Computer Vision Cover Photo">
+                        <div class="project-info">
+                            <h3>Computer Vision</h3>
+                            <p>Algorithms and deep learning techniques for computer vision tasks with explanations and code, following the Hugging Face CV Course.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Deep Learning, Feature Matching, Convolution Neural Networks, Transformers</p>
+                            <div class="links">
+                                <a href="https://github.com/eyalgur/computer-vision" target="_blank">GitHub</a>
+                                <a href="path/to/computer_vision.pdf" target="_blank">PDF</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <img src="path/to/cover_image.jpg" alt="Natural Language Processing Cover Photo">
+                        <div class="project-info">
+                            <h3>Natural Language Processing</h3>
+                            <p>The transformer architecture for large language models explained from a mathematical perspective.</p>
+                            <p class="keywords"><strong>Keywords:</strong> NLP, LLM, PyTorch, Transformers</p>
+                            <div class="links">
+                                <a href="https://github.com/eyalgur/natural-language-processing" target="_blank">GitHub</a>
+                                <a href="path/to/natural_language_processing.pdf" target="_blank">PDF</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <img src="path/to/cover_image.jpg" alt="Machine Learning Techniques Cover Photo">
+                        <div class="project-info">
+                            <h3>Machine Learning Techniques</h3>
+                            <p>Foundational techniques in machine learning for data science with explanations and python code.</p>
+                            <div class="links">
+                                <a href="https://github.com/eyalgur/machine-learning-techniques" target="_blank">GitHub</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <img src="path/to/cover_image.jpg" alt="Radar Signal Processing Cover Photo">
+                        <div class="project-info">
+                            <h3>Radar Signal Processing</h3>
+                            <p>Detecting a moving target using Doppler maps with python code and explanations.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Radar, Detection, Doppler Map, Python</p>
+                            <div class="links">
+                                <a href="https://github.com/eyalgur/radar-signal-processing" target="_blank">GitHub</a>
+                                <a href="path/to/radar_signal_processing.pdf" target="_blank">PDF</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <img src="path/to/cover_image.jpg" alt="Motion Planning Cover Photo">
+                        <div class="project-info">
+                            <h3>Motion Planning</h3>
+                            <p>Motion planning of a robot that maps corners in constant speed, with explanations.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Motion Planning, Path Planning, Non-Smooth</p>
+                            <div class="links">
+                                <a href="https://github.com/eyalgur/motion-planning" target="_blank">GitHub</a>
+                                <a href="path/to/motion_planning.pdf" target="_blank">PDF</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

@@ -46,6 +46,7 @@
         }
         .sections-container {
             display: flex;
+            max-width: 1800px;
             justify-content: space-between;
             gap: 2rem;
         }

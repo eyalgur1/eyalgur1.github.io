@@ -214,7 +214,7 @@
                 <h2>Exploratory Projects</h2>
                 <div class="projects-container">
                     <div class="project">
-                        <img src="images/AE.png" alt="AutoEncoder Optimizer Cover Photo">
+                        <img src="images/AE.jpg" alt="AutoEncoder Optimizer Cover Photo">
                         <div class="project-info">
                             <h3>AutoEncoder Optimizer</h3>
                             <p>An auto-encoder neural network with a custom optimizer developed to tackle a toy image encoding and decoding task for computer vision, compared to ADAM.</p>

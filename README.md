@@ -5,23 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Eyal Gur - Projects</title>
     <style>
-         * {
-            margin: 0rem;
-            padding: 0rem;
-            box-sizing: border-box;
-        }  
         body {
             font-family: 'Roboto', sans-serif;
             line-height: 1.6;
-            margin: 0rem;
-            padding: 0rem;
+            margin: 0;
+            padding: 0;
             background-color: #f0f0f0;
             color: #333;
         }
         header {
             background-color: #343a40;
-            max-width: 2000px;
-            margin: 1rem;
+            max-width: 20px;
             color: #fff;
             padding: 2rem 0;
             text-align: center;
@@ -29,7 +23,7 @@
         }
         .container {
             width: 100%;
-            margin: 1rem;
+            margin: 2rem auto;
             max-width: 2000px;
             padding: 2rem;
             background: #fff;
@@ -53,7 +47,7 @@
         }
         .sections-container {
             display: flex;
-            max-width: 2000px;
+            max-width: 1800px;
             justify-content: space-between;
             gap: 2rem;
         }

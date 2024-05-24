@@ -133,7 +133,6 @@
 <body>
     <div class="container">
         <div class="bio">
-            /*<img src="path/to/yourphoto.jpg" alt="Eyal Gur">*/
             <p>My projects and ongoing endeavors, which include links to code repositories with detailed comments and PDF files, are listed below. Feel free to explore the provided links and don't hesitate to reach out to me for further information.</p>
         </div>
 

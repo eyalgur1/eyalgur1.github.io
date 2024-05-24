@@ -71,9 +71,9 @@
             margin: 1.5rem 0;
         }
         .section h2 {
-            font-family: 'Roboto', sans-serif;
+            /*font-family: 'Roboto', sans-serif;
             font-weight: bold;
-            color: #343a40;
+            color: #343a40;*/
             margin-bottom: 1rem;
         }
         /* Separator style */

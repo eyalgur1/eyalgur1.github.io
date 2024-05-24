@@ -53,7 +53,7 @@
         @media (min-width: 768px) {
             .sections-container {
                 flex-direction: row;
-                /* max-width: 1100px; */
+                max-width: 2000px;
                 justify-content: space-between;
             }
         }

@@ -129,8 +129,8 @@
         }
     </style>
 </head>
-<a href="https://github.com/eyalgur1/Fast_Network_Localization" target="_blank">GitHub</a>
 <body>
+    <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
     <div class="container">
         <div class="bio">
             <p>My projects and ongoing endeavors, which include links to code repositories with detailed comments and PDF files, are listed below. Feel free to explore the provided links and don't hesitate to reach out to me for further information.</p>

@@ -22,7 +22,7 @@
         .container {
             width: 100%;
             margin: 2rem auto;
-            max-width: 2000px;
+            /* max-width: 2000px; */
             padding: 2rem;
             background: #fff;
             border-radius: 10px;
@@ -45,7 +45,7 @@
         }
         .sections-container {
             display: flex;
-            max-width: 2000px;
+            /* max-width: 2000px; */
             flex-direction: column;
             gap: 2rem;
         }
@@ -53,7 +53,7 @@
         @media (min-width: 768px) {
             .sections-container {
                 flex-direction: row;
-                max-width: 1100px;
+                /* max-width: 1100px; */
                 justify-content: space-between;
             }
         }

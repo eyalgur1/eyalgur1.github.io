@@ -58,6 +58,7 @@
 
         .section {
             flex-basis: 50%;
+            width: 4%;
             background-color: #f8f9fa;
             padding: 1rem;
             border-radius: 10px;

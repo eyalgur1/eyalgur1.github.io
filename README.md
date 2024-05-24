@@ -81,9 +81,12 @@
         .project img {
             width: 170px;
             height: 170px;
-            margin-right: 1rem;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 100%; /* Ensure it scales down appropriately */
+            margin-left: 1rem; /* Add margin to the left to space it from the text */
+            margin-bottom: 1rem;
+            border-radius: 10px;
+            object-fit: cover;
+            float: right; /* Float the image to the right */
         }
         .project-info {
             flex: 1;

@@ -212,7 +212,7 @@
                     <div class="project">
                         <img src="images/NAM.jpg" alt="Neted Alternating Minimization Cover Photo">
                         <div class="project-info">
-                            <h3>Nested Algorithm for Complex Problems</h3>
+                            <h3>Nested Algorithm for Complex Optimization Problems</h3>
                             <p>A novel and practical algorithmic framework that solves non-convex optimization problems by nesting algorithms.</p>
                             <p class="keywords"><strong>Keywords:</strong> Optimization, Fast Algorithms, Analysis</p>
                             <div class="links">

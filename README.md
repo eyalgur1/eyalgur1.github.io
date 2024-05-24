@@ -148,7 +148,7 @@
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur/sensor-network-localization" target="_blank">GitHub</a>
-                                <a href="path/to/sensor_network_publication.pdf" target="_blank">PDF</a>
+                                <a href="pdf/FNL_paper.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>
@@ -162,7 +162,7 @@
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur/target-detection" target="_blank">GitHub</a>
-                                <a href="path/to/target_detection_publication.pdf" target="_blank">PDF</a>
+                                <a href="pdf/TDOA.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>
@@ -176,7 +176,7 @@
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur/synchronization-localization" target="_blank">GitHub</a>
-                                <a href="path/to/synchronization_localization_publication.pdf" target="_blank">PDF</a>
+                                <a href="pdf/TOA.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>
@@ -190,7 +190,7 @@
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur/wireless-sensor-network-localization" target="_blank">GitHub</a>
-                                <a href="path/to/wireless_sensor_network_publication.pdf" target="_blank">PDF</a>
+                                <a href="pdf/WSNL.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>
@@ -204,7 +204,7 @@
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur/image-deblurring" target="_blank">GitHub</a>
-                                <a href="path/to/image_deblurring_publication.pdf" target="_blank">PDF</a>
+                                <a href="pdf/NAM2.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>
@@ -218,7 +218,7 @@
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur/neted-alternating-minimization" target="_blank">GitHub</a>
-                                <a href="path/to/neted_alternating_minimization_publication.pdf" target="_blank">PDF</a>
+                                <a href="pdf/NAM1.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>
@@ -232,7 +232,7 @@
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur/optimality-networks-scaling" target="_blank">GitHub</a>
-                                <a href="path/to/optimality_networks_scaling_publication.pdf" target="_blank">PDF</a>
+                                <a href="pdf/SNL.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>
@@ -250,6 +250,7 @@
                             <p class="keywords"><strong>Keywords:</strong> Deep Learning, Optimizers, Image Processing, Computer Vision, Python</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur/autoencoder-optimizer" target="_blank">GitHub</a>
+                                <a href="pdf/AE.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>
@@ -262,7 +263,7 @@
                             <p class="keywords"><strong>Keywords:</strong> Deep Learning, Feature Matching, Convolution Neural Networks, Transformers</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur/computer-vision" target="_blank">GitHub</a>
-                                <a href="path/to/computer_vision.pdf" target="_blank">PDF</a>
+                                <a href="pdf/CV.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>
@@ -275,7 +276,7 @@
                             <p class="keywords"><strong>Keywords:</strong> NLP, LLM, PyTorch, Transformers</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur/natural-language-processing" target="_blank">GitHub</a>
-                                <a href="path/to/natural_language_processing.pdf" target="_blank">PDF</a>
+                                <a href="pdf/LLM.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>
@@ -299,7 +300,7 @@
                             <p class="keywords"><strong>Keywords:</strong> Radar, Detection, Doppler Map, Python</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur/radar-signal-processing" target="_blank">GitHub</a>
-                                <a href="path/to/radar_signal_processing.pdf" target="_blank">PDF</a>
+                                <a href="pdf/Radar_Signal_Processing.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>
@@ -312,7 +313,7 @@
                             <p class="keywords"><strong>Keywords:</strong> Motion Planning, Path Planning, Non-Smooth</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur/motion-planning" target="_blank">GitHub</a>
-                                <a href="path/to/motion_planning.pdf" target="_blank">PDF</a>
+                                <a href="pdf/PL.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>

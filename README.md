@@ -147,7 +147,7 @@
                             <p class="keywords"><strong>Keywords:</strong> Statistical Estimation, Distributed Parallel Computing, Optimization Algorithms</p>
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
-                                <a href="https://github.com/eyalgur/sensor-network-localization" target="_blank">GitHub</a>
+                                <a href="https://github.com/eyalgur1/Fast_Network_Localization" target="_blank">GitHub</a>
                                 <a href="pdf/FNL_paper.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
@@ -161,7 +161,7 @@
                             <p class="keywords"><strong>Keywords:</strong> Source Localization and Detection, Fast Optimization</p>
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
-                                <a href="https://github.com/eyalgur/target-detection" target="_blank">GitHub</a>
+                                <a href="https://github.com/eyalgur1/TDoA_Source_Localization" target="_blank">GitHub</a>
                                 <a href="pdf/TDOA.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
@@ -175,7 +175,7 @@
                             <p class="keywords"><strong>Keywords:</strong> Source Synchronization, Statistical Estimation, Optimization Algorithms</p>
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
-                                <a href="https://github.com/eyalgur/synchronization-localization" target="_blank">GitHub</a>
+                                <a href="https://github.com/eyalgur1/Asynchronous_ToA_Source_Localization" target="_blank">GitHub</a>
                                 <a href="pdf/TOA.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
@@ -189,7 +189,7 @@
                             <p class="keywords"><strong>Keywords:</strong> Distributed Optimization, Parallel Computing, Network Simulations</p>
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
-                                <a href="https://github.com/eyalgur/wireless-sensor-network-localization" target="_blank">GitHub</a>
+                                <a href="https://github.com/eyalgur1/Sensor_Network_Localization" target="_blank">GitHub</a>
                                 <a href="pdf/WSNL.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
@@ -203,7 +203,7 @@
                             <p class="keywords"><strong>Keywords:</strong> Image Processing, Elastic Net, Image Reconstruction</p>
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
-                                <a href="https://github.com/eyalgur/image-deblurring" target="_blank">GitHub</a>
+                                <a href="https://github.com/eyalgur1/Image_Deblurring/tree/main/non_smooth" target="_blank">GitHub</a>
                                 <a href="pdf/NAM2.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
@@ -217,7 +217,7 @@
                             <p class="keywords"><strong>Keywords:</strong> Optimization, Fast Algorithms, Analysis</p>
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
-                                <a href="https://github.com/eyalgur/neted-alternating-minimization" target="_blank">GitHub</a>
+                                <a href="https://github.com/eyalgur1/Image_Deblurring/tree/main/smooth" target="_blank">GitHub</a>
                                 <a href="pdf/NAM1.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
@@ -230,8 +230,6 @@
                             <p>Optimality of solutions in the sensor networks and dimensionality reduction in unsupervised learning.</p>
                             <p class="keywords"><strong>Keywords:</strong> Heuristics for Optimality, Unsupervised Learning, Sensor Networks, Algorithm Analysis</p>
                             <div class="links">
-                                <a href="https://link-to-publication.com" target="_blank">Full Text</a>
-                                <a href="https://github.com/eyalgur/optimality-networks-scaling" target="_blank">GitHub</a>
                                 <a href="pdf/SNL.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
@@ -249,7 +247,7 @@
                             <p>An auto-encoder neural network with a custom optimizer developed to tackle a toy image encoding and decoding task for computer vision, compared to ADAM.</p>
                             <p class="keywords"><strong>Keywords:</strong> Deep Learning, Optimizers, Image Processing, Computer Vision, Python</p>
                             <div class="links">
-                                <a href="https://github.com/eyalgur/autoencoder-optimizer" target="_blank">GitHub</a>
+                                <a href="https://github.com/eyalgur1/AutoEncoders" target="_blank">GitHub</a>
                                 <a href="pdf/AE.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
@@ -262,7 +260,7 @@
                             <p>Algorithms and deep learning techniques for computer vision tasks with explanations and code, following the Hugging Face CV Course.</p>
                             <p class="keywords"><strong>Keywords:</strong> Deep Learning, Feature Matching, Convolution Neural Networks, Transformers</p>
                             <div class="links">
-                                <a href="https://github.com/eyalgur/computer-vision" target="_blank">GitHub</a>
+                                <a href="https://github.com/eyalgur1/Computer_Vision__Huggning_Face_Community_CV_Course" target="_blank">GitHub</a>
                                 <a href="pdf/CV.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
@@ -275,7 +273,7 @@
                             <p>The transformer architecture of large language models for Natural Languge Processing explained from a mathematical perspective.</p>
                             <p class="keywords"><strong>Keywords:</strong> NLP, LLM, PyTorch, Transformers</p>
                             <div class="links">
-                                <a href="https://github.com/eyalgur/natural-language-processing" target="_blank">GitHub</a>
+                                <a href="https://github.com/eyalgur1/Large_Language_Models_Explained" target="_blank">GitHub</a>
                                 <a href="pdf/LLM.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
@@ -287,7 +285,7 @@
                             <h3>Machine Learning Techniques</h3>
                             <p>Foundational techniques in machine learning for data science with explanations and python code.</p>
                             <div class="links">
-                                <a href="https://github.com/eyalgur/machine-learning-techniques" target="_blank">GitHub</a>
+                                <a href="https://github.com/eyalgur1/Machine_Learning_Techniques" target="_blank">GitHub</a>
                             </div>
                         </div>
                     </div>
@@ -299,7 +297,7 @@
                             <p>Detecting a moving target using Doppler maps with python code and explanations.</p>
                             <p class="keywords"><strong>Keywords:</strong> Radar, Detection, Doppler Map, Python</p>
                             <div class="links">
-                                <a href="https://github.com/eyalgur/radar-signal-processing" target="_blank">GitHub</a>
+                                <a href="https://github.com/eyalgur1/Radar_Signal_Processing" target="_blank">GitHub</a>
                                 <a href="pdf/Radar_Signal_Processing.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
@@ -312,7 +310,7 @@
                             <p>Motion and path planning of a robot that maps corners in constant speed, with explanations.</p>
                             <p class="keywords"><strong>Keywords:</strong> Motion Planning, Path Planning, Non-Smooth</p>
                             <div class="links">
-                                <a href="https://github.com/eyalgur/motion-planning" target="_blank">GitHub</a>
+                                <a href="https://github.com/eyalgur1/Path_Planning_for_Corner" target="_blank">GitHub</a>
                                 <a href="pdf/PL.pdf" target="_blank">PDF</a>
                             </div>
                         </div>

@@ -139,7 +139,6 @@
             <div class="section">
                 <h2>Publications</h2>
                 <div class="projects-container">
-                <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/SNL1.jpg" alt="Sensor Network Cover Photo">
                         <div class="project-info">

@@ -89,8 +89,8 @@
             margin-bottom: 0;
         }
         .project img {
-            width: 170px;
-            height: 170px;
+            width: 150px;
+            height: 150px;
             max-width: 100%; /* Ensure it scales down appropriately */
             margin-left: 1rem; /* Add margin to the left to space it from the text */
             margin-bottom: 0.5rem;

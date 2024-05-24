@@ -73,6 +73,7 @@
         .section h2 {
             /*font-family: 'Roboto', sans-serif;
             font-weight: bold;
+            margin-bottom: 1rem;
             color: #343a40;*/
             font-weight: bold;
             margin-bottom: 1rem;

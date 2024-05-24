@@ -46,10 +46,19 @@
         }
         .sections-container {
             display: flex;
-            max-width: 1100px;
+            /* max-width: 1100px;
             justify-content: space-between;
             gap: 2rem;
         }
+        /* Desktop-specific layout */
+        @media (min-width: 768px) {
+            .sections-container {
+                flex-direction: row;
+                max-width: 1100px;
+                justify-content: space-between;
+            }
+        }
+
         .section {
             flex-basis: 48%;
             background-color: #f8f9fa;

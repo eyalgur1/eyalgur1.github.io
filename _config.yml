@@ -1,0 +1,7 @@
+# Site settings
+title: My GitHub Pages Site
+description: This is my GitHub Pages site.
+theme: jekyll-theme-cayman # Theme name or other theme settings
+
+# Build settings
+markdown: kramdown

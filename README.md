@@ -131,9 +131,6 @@
 </head>
 
 <body>
-    <header class="page-header" role="banner">
-        <a href="{{ www.linkedin.com/in/eyal-gur-8a3749160/}}" class="btn">View on GitHub</a>
-</header>
     <div class="container">
         <div class="bio">
             <p>My projects and ongoing endeavors, which include links to code repositories with detailed comments and PDF files, are listed below. Feel free to explore the provided links and don't hesitate to reach out to me for further information.</p>

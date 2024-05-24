@@ -71,6 +71,7 @@
             margin: 1.5rem 0;
         }
         .section h2 {
+            font-family: 'Roboto', sans-serif;
             color: #343a40;
             margin-bottom: 1rem;
         }
@@ -100,6 +101,7 @@
             flex: 1;
         }
         .project-info h3 {
+            font-family: 'Roboto', sans-serif;
             margin: 0 0 0.5rem;
             color: #343a40;
         }

@@ -82,7 +82,7 @@
             height: 170px;
             max-width: 100%; /* Ensure it scales down appropriately */
             margin-left: 1rem; /* Add margin to the left to space it from the text */
-            margin-bottom: 1rem;
+            margin-bottom: 0.5rem;
             border-radius: 10px;
             object-fit: cover;
             float: right; /* Float the image to the right */

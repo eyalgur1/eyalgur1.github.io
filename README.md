@@ -4,12 +4,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            font-family: 'Roboto', sans-serif;
+            /*font-family: 'Roboto', sans-serif;
             line-height: 1.6;
             margin: 0;
             padding: 0;
             background-color: #f0f0f0;
-            color: #333;
+            color: #333;*/
         }
         header {
             background-color: #343a40;
@@ -40,8 +40,8 @@
             margin-bottom: 1rem;
         }
         .bio p {
-            font-size: 1.1rem;
-            color: #555;
+            /*font-size: 1.1rem;
+            color: #555;*/
         }
         .sections-container {
             display: flex;
@@ -102,11 +102,11 @@
             flex: 1;
         }
         .project-info h3 {
-            font-family: 'Roboto', sans-serif;
+            /*font-family: 'Roboto', sans-serif;
             font-weight: bold;
             font-size: 18px;
             margin: 0 0 0.5rem;
-            color: #343a40;
+            color: #343a40;*/
         }
         .project-info p {
             margin: 0 0 0.5rem;

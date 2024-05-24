@@ -146,7 +146,6 @@
                             <p>A novel fast distributed and parallel method for wireless sensor network localization with data uncertainty.</p>
                             <p class="keywords"><strong>Keywords:</strong> Statistical Estimation, Distributed Parallel Computing, Optimization Algorithms</p>
                             <div class="links">
-                                <a href="https://link-to-publication.com" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur1/Fast_Network_Localization" target="_blank">GitHub</a>
                                 <a href="pdf/FNL_paper.pdf" target="_blank">PDF</a>
                             </div>
@@ -160,7 +159,7 @@
                             <p>Detection of targets with a novel algorithm in an asynchronous environment using TDoA.</p>
                             <p class="keywords"><strong>Keywords:</strong> Source Localization and Detection, Fast Optimization</p>
                             <div class="links">
-                                <a href="https://link-to-publication.com" target="_blank">Full Text</a>
+                                <a href="https://www.sciencedirect.com/science/article/abs/pii/S1051200423001690" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur1/TDoA_Source_Localization" target="_blank">GitHub</a>
                                 <a href="pdf/TDOA.pdf" target="_blank">PDF</a>
                             </div>
@@ -174,7 +173,6 @@
                             <p>Simultaneously synchronizing and locating source targets with a novel and fast algorithm.</p>
                             <p class="keywords"><strong>Keywords:</strong> Source Synchronization, Statistical Estimation, Optimization Algorithms</p>
                             <div class="links">
-                                <a href="https://link-to-publication.com" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur1/Asynchronous_ToA_Source_Localization" target="_blank">GitHub</a>
                                 <a href="pdf/TOA.pdf" target="_blank">PDF</a>
                             </div>
@@ -188,7 +186,7 @@
                             <p>Fully distributed to fully centralized novel algorithms for locating complex sensor networks.</p>
                             <p class="keywords"><strong>Keywords:</strong> Distributed Optimization, Parallel Computing, Network Simulations</p>
                             <div class="links">
-                                <a href="https://link-to-publication.com" target="_blank">Full Text</a>
+                                <a href="https://ieeexplore.ieee.org/abstract/document/9226609" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur1/Sensor_Network_Localization" target="_blank">GitHub</a>
                                 <a href="pdf/WSNL.pdf" target="_blank">PDF</a>
                             </div>
@@ -202,7 +200,7 @@
                             <p>Reconstructing a blurred image with a new algorithm with regularization.</p>
                             <p class="keywords"><strong>Keywords:</strong> Image Processing, Elastic Net, Image Reconstruction</p>
                             <div class="links">
-                                <a href="https://link-to-publication.com" target="_blank">Full Text</a>
+                                <a href="https://link.springer.com/article/10.1007/s10957-023-02310-4" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur1/Image_Deblurring/tree/main/non_smooth" target="_blank">GitHub</a>
                                 <a href="pdf/NAM2.pdf" target="_blank">PDF</a>
                             </div>
@@ -216,7 +214,7 @@
                             <p>A novel and practical algorithmic framework that solves non-convex optimization problems by nesting algorithms.</p>
                             <p class="keywords"><strong>Keywords:</strong> Optimization, Fast Algorithms, Analysis</p>
                             <div class="links">
-                                <a href="https://link-to-publication.com" target="_blank">Full Text</a>
+                                <a href="https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.1256" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur1/Image_Deblurring/tree/main/smooth" target="_blank">GitHub</a>
                                 <a href="pdf/NAM1.pdf" target="_blank">PDF</a>
                             </div>

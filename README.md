@@ -59,7 +59,7 @@
         }
 
         .section {
-            flex-basis: 48%;
+            flex-basis: 50%;
             background-color: #f8f9fa;
             padding: 1.5rem;
             border-radius: 10px;
@@ -74,6 +74,7 @@
             /*font-family: 'Roboto', sans-serif;
             font-weight: bold;
             color: #343a40;*/
+            font-weight: bold;
             margin-bottom: 1rem;
         }
         /* Separator style */

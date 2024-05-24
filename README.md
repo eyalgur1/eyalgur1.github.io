@@ -91,7 +91,7 @@
         .project img {
             width: 170px;
             height: 170px;
-            max-width: 100%; /* Ensure it scales down appropriately */
+            max-width: 80%; /* Ensure it scales down appropriately */
             margin-left: 1rem; /* Add margin to the left to space it from the text */
             margin-bottom: 0.5rem;
             border-radius: 10px;
@@ -139,6 +139,7 @@
         <div class="sections-container">
             <div class="section">
                 <h2>Publications</h2>
+                <div class="separator"></div> <!-- Add this separator -->
                 <div class="projects-container">
                     <div class="project">
                         <img src="images/SNL1.jpg" alt="Sensor Network Cover Photo">
@@ -238,6 +239,7 @@
 
             <div class="section">
                 <h2>Exploratory Projects</h2>
+                <div class="separator"></div> <!-- Add this separator -->
                 <div class="projects-container">
                     <div class="project">
                         <img src="images/AE.jpg" alt="Auto-EncoderOptimizer Cover Photo">

@@ -71,9 +71,8 @@
             margin-bottom: 1rem;
         }
         .project {
-            display: flex;
-            align-items: flex-start;
             margin-bottom: 1.5rem;
+            overflow: hidden; /* Ensure clearfix */
         }
         .project:last-child {
             margin-bottom: 0;

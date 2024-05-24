@@ -131,7 +131,16 @@
 </head>
 <body>
     <header class="page-header" role="banner">
-    <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      {% endif %}
+      {% if site.show_downloads %}
+        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+      {% endif %}
+    </header>
     <div class="container">
         <div class="bio">
             <p>My projects and ongoing endeavors, which include links to code repositories with detailed comments and PDF files, are listed below. Feel free to explore the provided links and don't hesitate to reach out to me for further information.</p>

@@ -66,6 +66,11 @@
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
         }
+
+        .section-title-separator {
+            border-top: 2px solid #ccc; /* Twice the thickness of .separator */
+            margin: 1.5rem 0;
+        }
         .section h2 {
             color: #343a40;
             margin-bottom: 1rem;

@@ -46,7 +46,7 @@
             display: flex;
             /* max-width: 2000px; */
             flex-direction: column;
-            gap: 2rem;
+            gap: 1rem;
         }
         /* Desktop-specific layout */
         @media (min-width: 768px) {

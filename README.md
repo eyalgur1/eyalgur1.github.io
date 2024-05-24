@@ -130,6 +130,7 @@
     </style>
 </head>
 <body>
+    <header class="page-header" role="banner">
     <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
     <div class="container">
         <div class="bio">

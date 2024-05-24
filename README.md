@@ -70,6 +70,11 @@
             color: #343a40;
             margin-bottom: 1rem;
         }
+        /* Separator style */
+        .separator {
+            border-top: 1px solid #ccc;
+            margin: 1.5rem 0;
+        }
         .project {
             margin-bottom: 1.5rem;
             overflow: hidden; /* Ensure clearfix */
@@ -155,6 +160,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/SSL2.jpg" alt="Synchronization and Localization Cover Photo">
                         <div class="project-info">
@@ -168,6 +174,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/SNL2.jpg" alt="Wireless Sensor Network Cover Photo">
                         <div class="project-info">
@@ -181,6 +188,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/ID.jpg" alt="Image Deblurring Cover Photo">
                         <div class="project-info">
@@ -194,6 +202,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/NAM.jpg" alt="Neted Alternating Minimization Cover Photo">
                         <div class="project-info">
@@ -207,6 +216,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/MDS.jpg" alt="Optimality in Networks Cover Photo">
                         <div class="project-info">
@@ -237,6 +247,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/CV.jpg" alt="Computer Vision Cover Photo">
                         <div class="project-info">
@@ -249,6 +260,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/NLP.jpg" alt="Natural Language Processing Cover Photo">
                         <div class="project-info">
@@ -261,6 +273,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/ML.jpg" alt="Machine Learning Techniques Cover Photo">
                         <div class="project-info">
@@ -271,6 +284,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/RSP.jpg" alt="Radar Signal Processing Cover Photo">
                         <div class="project-info">
@@ -283,6 +297,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/PL.jpg" alt="Motion Planning Cover Photo">
                         <div class="project-info">

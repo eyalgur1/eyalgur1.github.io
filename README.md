@@ -147,6 +147,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/SSL1.jpg" alt="Target Detection Cover Photo">
                         <div class="project-info">

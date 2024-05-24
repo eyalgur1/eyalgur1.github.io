@@ -129,10 +129,12 @@
         }
     </style>
 </head>
+<header class="page-header" role="banner">
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+</header>
 <body>
     <header class="page-header" role="banner">
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-    </header>
     <div class="container">
         <div class="bio">
             <p>My projects and ongoing endeavors, which include links to code repositories with detailed comments and PDF files, are listed below. Feel free to explore the provided links and don't hesitate to reach out to me for further information.</p>

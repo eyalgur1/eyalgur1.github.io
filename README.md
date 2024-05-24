@@ -7,7 +7,6 @@
         body {
             font-family: 'Roboto', sans-serif;
             line-height: 1.6;
-            max-width: 2000px;
             margin: 0;
             padding: 0;
             background-color: #f0f0f0;
@@ -16,7 +15,6 @@
         header {
             background-color: #343a40;
             width: 100%;
-            max-width: 1800px;
             color: #fff;
             padding: 2rem 0;
             text-align: center;
@@ -25,7 +23,7 @@
         .container {
             width: 100%;
             margin: 2rem auto;
-            max-width: 1800px;
+            max-width: 1100px;
             padding: 2rem;
             background: #fff;
             border-radius: 10px;
@@ -48,7 +46,7 @@
         }
         .sections-container {
             display: flex;
-            max-width: 1800px;
+            max-width: 1100px;
             justify-content: space-between;
             gap: 2rem;
         }

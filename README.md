@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eyal Gur - Projects</title>
     <style>
         body {
             font-family: 'Roboto', sans-serif;
@@ -126,9 +125,6 @@
     </style>
 </head>
 <body>
-    <header>
-        <h1>Eyal Gur - Projects</h1>
-    </header>
     <div class="container">
         <div class="bio">
             <img src="path/to/yourphoto.jpg" alt="Eyal Gur">

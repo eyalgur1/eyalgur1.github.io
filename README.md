@@ -102,6 +102,7 @@
         }
         .project-info h3 {
             font-family: 'Roboto', sans-serif;
+            font-size: 100px;
             margin: 0 0 0.5rem;
             color: #343a40;
         }

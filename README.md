@@ -72,6 +72,7 @@
         }
         .section h2 {
             font-family: 'Roboto', sans-serif;
+            font-weight: bold;
             color: #343a40;
             margin-bottom: 1rem;
         }
@@ -103,7 +104,7 @@
         .project-info h3 {
             font-family: 'Roboto', sans-serif;
             font-weight: bold;
-            font-size: 24px;
+            font-size: 18px;
             margin: 0 0 0.5rem;
             color: #343a40;
         }

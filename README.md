@@ -142,7 +142,7 @@
                     <div class="project">
                         <img src="images/SNL1.jpg" alt="Sensor Network Cover Photo">
                         <div class="project-info">
-                            <h3>Sensor Network Localization</h3>
+                            <h3>Fast Sensor Network Localization</h3>
                             <p>A novel fast distributed and parallel method for wireless sensor network localization with data uncertainty.</p>
                             <p class="keywords"><strong>Keywords:</strong> Statistical Estimation, Distributed Parallel Computing, Optimization Algorithms</p>
                             <div class="links">
@@ -212,8 +212,8 @@
                     <div class="project">
                         <img src="images/NAM.jpg" alt="Neted Alternating Minimization Cover Photo">
                         <div class="project-info">
-                            <h3>Neted Alternating Minimization</h3>
-                            <p>A novel and practical algorithmic framework that solves complex optimization problems.</p>
+                            <h3>Nested Algorithm for Complex Problems</h3>
+                            <p>A novel and practical algorithmic framework that solves non-convex optimization problems by nesting algorithms.</p>
                             <p class="keywords"><strong>Keywords:</strong> Optimization, Fast Algorithms, Analysis</p>
                             <div class="links">
                                 <a href="https://link-to-publication.com" target="_blank">Full Text</a>
@@ -226,7 +226,7 @@
                     <div class="project">
                         <img src="images/MDS.jpg" alt="Optimality in Networks Cover Photo">
                         <div class="project-info">
-                            <h3>Optimality in Networks and Multi-Dimensional Scaling</h3>
+                            <h3>Optimality in Multi-Dimensional Scaling and Networks</h3>
                             <p>Optimality of solutions in the sensor networks and dimensionality reduction in unsupervised learning.</p>
                             <p class="keywords"><strong>Keywords:</strong> Heuristics for Optimality, Unsupervised Learning, Sensor Networks, Algorithm Analysis</p>
                             <div class="links">
@@ -243,9 +243,9 @@
                 <h2>Exploratory Projects</h2>
                 <div class="projects-container">
                     <div class="project">
-                        <img src="images/AE.jpg" alt="AutoEncoder Optimizer Cover Photo">
+                        <img src="images/AE.jpg" alt="Auto-EncoderOptimizer Cover Photo">
                         <div class="project-info">
-                            <h3>AutoEncoder Optimizer</h3>
+                            <h3>Auto-Encoder Neural Network Optimizer</h3>
                             <p>An auto-encoder neural network with a custom optimizer developed to tackle a toy image encoding and decoding task for computer vision, compared to ADAM.</p>
                             <p class="keywords"><strong>Keywords:</strong> Deep Learning, Optimizers, Image Processing, Computer Vision, Python</p>
                             <div class="links">
@@ -270,8 +270,8 @@
                     <div class="project">
                         <img src="images/NLP.jpg" alt="Natural Language Processing Cover Photo">
                         <div class="project-info">
-                            <h3>Natural Language Processing</h3>
-                            <p>The transformer architecture for large language models explained from a mathematical perspective.</p>
+                            <h3>Large Language Model for NLP</h3>
+                            <p>The transformer architecture of large language models for Natural Languge Processing explained from a mathematical perspective.</p>
                             <p class="keywords"><strong>Keywords:</strong> NLP, LLM, PyTorch, Transformers</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur/natural-language-processing" target="_blank">GitHub</a>
@@ -308,7 +308,7 @@
                         <img src="images/PL.jpg" alt="Motion Planning Cover Photo">
                         <div class="project-info">
                             <h3>Motion Planning</h3>
-                            <p>Motion planning of a robot that maps corners in constant speed, with explanations.</p>
+                            <p>Motion and path planning of a robot that maps corners in constant speed, with explanations.</p>
                             <p class="keywords"><strong>Keywords:</strong> Motion Planning, Path Planning, Non-Smooth</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur/motion-planning" target="_blank">GitHub</a>

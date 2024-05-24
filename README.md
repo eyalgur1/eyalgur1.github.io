@@ -20,7 +20,7 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         .container {
-            width: 110%;
+            width: 100%;
             margin: 0rem auto;
             padding: 2rem;
             background: #fff;
@@ -91,7 +91,7 @@
         .project img {
             width: 170px;
             height: 170px;
-            max-width: 80%; /* Ensure it scales down appropriately */
+            max-width: 100%; /* Ensure it scales down appropriately */
             margin-left: 1rem; /* Add margin to the left to space it from the text */
             margin-bottom: 0.5rem;
             border-radius: 10px;

@@ -22,7 +22,7 @@
         .container {
             width: 100%;
             margin: 0rem auto;
-            padding: 2rem;
+            padding: 1rem;
             background: #fff;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -58,7 +58,6 @@
 
         .section {
             flex-basis: 50%;
-            width: 4%;
             background-color: #f8f9fa;
             padding: 1rem;
             border-radius: 10px;

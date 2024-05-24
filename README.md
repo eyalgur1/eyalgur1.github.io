@@ -20,7 +20,7 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         .container {
-            width: 100%;
+            width: 110%;
             margin: 2rem auto;
             max-width: 2000px;
             padding: 2rem;
@@ -61,7 +61,7 @@
         .section {
             flex-basis: 50%;
             background-color: #f8f9fa;
-            padding: 1.5rem;
+            padding: 1rem;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
         }

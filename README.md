@@ -46,8 +46,8 @@
         }
         .sections-container {
             display: flex;
-            /* max-width: 1100px;
-            justify-content: space-between;
+            /* max-width: 1100px; */
+            flex-direction: row;
             gap: 2rem;
         }
         /* Desktop-specific layout */

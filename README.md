@@ -47,7 +47,7 @@
         .sections-container {
             display: flex;
             /* max-width: 1100px; */
-            flex-direction: row;
+            flex-direction: column;
             gap: 2rem;
         }
         /* Desktop-specific layout */

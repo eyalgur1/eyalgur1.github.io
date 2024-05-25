@@ -242,7 +242,7 @@
                         <img src="images/AE.jpg" alt="Auto-EncoderOptimizer Cover Photo">
                         <div class="project-info">
                             <h3>Auto-Encoder Neural Network Optimizer</h3>
-                            <p>An auto-encoder neural network with a custom optimizer developed to tackle a toy image encoding and decoding task for computer vision, compared to ADAM.</p>
+                            <p An auto-encoder neural network featuring a custom optimizer designed to independently optimize the encoder and decoder for enhanced performance, outperforming ADAM in computer vision and other deep learning tasks.</p>
                             <p class="keywords"><strong>Keywords:</strong> Deep Learning, Optimizers, Image Processing, Computer Vision, Python</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur1/AutoEncoders" target="_blank">GitHub</a>

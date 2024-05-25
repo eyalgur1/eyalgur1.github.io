@@ -156,7 +156,7 @@
                         <img src="images/ID.jpg" alt="Image Deblurring Cover Photo">
                         <div class="project-info">
                             <h3>Image Deblurring</h3>
-                            <p>Reconstructing a blurred image with a new algorithm and elastic net regularization.</p>
+                            <p>Reconstructing a blurred image with a new algorithm using elastic net regularization.</p>
                             <p class="keywords"><strong>Keywords:</strong> Image Processing, Elastic Net, Image Reconstruction, Regression, Non-Convex Optimization</p>
                             <div class="links">
                                 <a href="https://link.springer.com/article/10.1007/s10957-023-02310-4" target="_blank">Full Text</a>
@@ -171,7 +171,7 @@
                         <div class="project-info">
                             <h3>Target Location Estimation</h3>
                             <p>Finding the position of radiating targets with a novel algorithm in an asynchronous environment using TDoA.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Signal Processing, Source Localization, Target Detection, TDoA</p>
+                            <p class="keywords"><strong>Keywords:</strong> Signal Processing, Source Localization, Estimation Techniques, TDoA</p>
                             <div class="links">
                                 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1051200423001690" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur1/TDoA_Source_Localization" target="_blank">GitHub</a>
@@ -244,7 +244,7 @@
                         <div class="project-info">
                             <h3>Auto-Encoder Neural Network Optimizer</h3>
                             <p> An auto-encoder neural network featuring a custom optimizer designed to independently optimize the encoder and decoder for enhanced performance, outperforming ADAM in computer vision or other deep learning tasks.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Autoencoder, Deep Learning, Optimizers, Computer Vision, Python, PyTorch, Autoencoder</p>
+                            <p class="keywords"><strong>Keywords:</strong> Autoencoder, Deep Learning, Optimizers, Computer Vision, Python, PyTorch, FISTA</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur1/AutoEncoders" target="_blank">GitHub</a>
                                 <a href="pdf/AE.pdf" target="_blank">PDF</a>

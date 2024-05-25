@@ -1,4 +1,4 @@
-<html lang="en">
+_<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -131,14 +131,14 @@
 <body>
     <div class="container">
         <div class="bio">
-            <p>My personal projects, publications and ongoing endeavors – including links to code repositories with detailed comments and PDF files – are listed below. Feel free to explore the provided links and don't hesitate to reach out to me via my <a href="https://www.linkedin.com/in/eyal-gur-8a3749160/" target="_blank">LinkedIn page</a> for further information.</p>
+            <p>My projects, publications and ongoing endeavors – which include links to code repositories with detailed comments and PDF files – are listed below. Feel free to explore the provided links and don't hesitate to reach out to me via my <a href="https://www.linkedin.com/in/eyal-gur-8a3749160/" target="_blank">LinkedIn page</a> for further information.</p>
         </div>
         <div class="sections-container">
             <div class="section">
                 <h2>Publications</h2>
                 <div class="separator"></div> <!-- Add this separator -->
-
-                    <div class="project">
+                <div class="projects-container">
+                      <div class="project">
                         <img src="images/SNL2.jpg" alt="Wireless Sensor Network Cover Photo">
                         <div class="project-info">
                             <h3>Wireless Sensor Networks</h3>
@@ -152,7 +152,7 @@
                         </div>
                     </div>
                     <div class="separator"></div> <!-- Add this separator -->
-                    <div class="project">
+                     <div class="project">
                         <img src="images/ID.jpg" alt="Image Deblurring Cover Photo">
                         <div class="project-info">
                             <h3>Image Deblurring</h3>
@@ -162,21 +162,6 @@
                                 <a href="https://link.springer.com/article/10.1007/s10957-023-02310-4" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur1/Image_Deblurring/tree/main/non_smooth" target="_blank">GitHub</a>
                                 <a href="pdf/NAM2.pdf" target="_blank">PDF</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="separator"></div> <!-- Add this separator -->
-                
-                <div class="projects-container">
-                    <div class="project">
-                        <img src="images/SNL1.jpg" alt="Sensor Network Cover Photo">
-                        <div class="project-info">
-                            <h3>Fast Sensor Network Localization</h3>
-                            <p>A novel, fast, distributed and parallel algorithm for wireless sensor network localization with data uncertainty.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Statistical Estimation, Distributed Algorithm, Parallel Computing, Optimization Algorithms</p>
-                            <div class="links">
-                                <a href="https://github.com/eyalgur1/Fast_Network_Localization" target="_blank">GitHub</a>
-                                <a href="pdf/FNL_paper.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>
@@ -194,6 +179,45 @@
                             </div>
                         </div>
                     </div>
+                    <div class="project">
+                        <img src="images/MDS.jpg" alt="Optimality in Networks Cover Photo">
+                        <div class="project-info">
+                            <h3>Optimality in Multi-Dimensional Scaling and Networks</h3>
+                            <p>Optimality of solutions in sensor networks and dimensionality reduction problems in unsupervised learning.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Heuristics for Optimality, Unsupervised Learning, Sensor Networks, Algorithm Analysis, Saddle Points</p>
+                            <div class="links">
+                                <a href="pdf/SNL.pdf" target="_blank">PDF</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="separator"></div> <!-- Add this separator -->
+                    <div class="separator"></div> <!-- Add this separator -->
+                    <div class="project">
+                        <img src="images/SNL1.jpg" alt="Sensor Network Cover Photo">
+                        <div class="project-info">
+                            <h3>Fast Sensor Network Localization</h3>
+                            <p>A novel, fast, distributed and parallel algorithm for wireless sensor network localization with data uncertainty.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Statistical Estimation, Distributed Algorithm, Parallel Computing, Optimization Algorithms</p>
+                            <div class="links">
+                                <a href="https://github.com/eyalgur1/Fast_Network_Localization" target="_blank">GitHub</a>
+                                <a href="pdf/FNL_paper.pdf" target="_blank">PDF</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <img src="images/NAM.jpg" alt="Nested Alternating Minimization Cover Photo">
+                        <div class="project-info">
+                            <h3>Nested Algorithm for Complex Optimization Problems</h3>
+                            <p>A novel and practical algorithmic framework that solves non-convex optimization problems by nesting algorithms.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Continuous Optimization Theory and Analysis, Accelerated Algorithms, Mathematical Optimization, Non-Smooth Optimization</p>
+                            <div class="links">
+                                <a href="https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.1256" target="_blank">Full Text</a>
+                                <a href="https://github.com/eyalgur1/Image_Deblurring/tree/main/smooth" target="_blank">GitHub</a>
+                                <a href="pdf/NAM1.pdf" target="_blank">PDF</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/SSL2.jpg" alt="Synchronization and Localization Cover Photo">
@@ -209,32 +233,6 @@
                     </div>
                     <div class="separator"></div> <!-- Add this separator -->
 
-                    <div class="project">
-                        <img src="images/NAM.jpg" alt="Nested Alternating Minimization Cover Photo">
-                        <div class="project-info">
-                            <h3>Nested Algorithm for Complex Optimization Problems</h3>
-                            <p>A novel and practical algorithmic framework that solves non-convex optimization problems by nesting algorithms.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Continuous Optimization Theory and Analysis, Accelerated Algorithms, Mathematical Optimization, Non-Smooth Optimization</p>
-                            <div class="links">
-                                <a href="https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.1256" target="_blank">Full Text</a>
-                                <a href="https://github.com/eyalgur1/Image_Deblurring/tree/main/smooth" target="_blank">GitHub</a>
-                                <a href="pdf/NAM1.pdf" target="_blank">PDF</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="separator"></div> <!-- Add this separator -->
-                    <div class="project">
-                        <img src="images/MDS.jpg" alt="Optimality in Networks Cover Photo">
-                        <div class="project-info">
-                            <h3>Optimality in Multi-Dimensional Scaling and Networks</h3>
-                            <p>Optimality of solutions in sensor networks and dimensionality reduction problems in unsupervised learning.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Heuristics for Optimality, Unsupervised Learning, Sensor Networks, Algorithm Analysis, Saddle Points</p>
-                            <div class="links">
-                                <a href="pdf/SNL.pdf" target="_blank">PDF</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="separator"></div> <!-- Add this separator -->
                 </div>
             </div>
             <div class="section">
@@ -272,7 +270,7 @@
                         <div class="project-info">
                             <h3>Large Language Models for NLP</h3>
                             <p>The transformer neural network architecture of large language models (LLM) for natural languge processing (NLP) explained from a mathematical perspective.</p>
-                            <p class="keywords"><strong>Keywords:</strong> NLP, LLM, PyTorch, Transformers, Word Prediction, Autoregressive Models, Non-Causal Models, Tokenization </p>
+                            <p class="keywords"><strong>Keywords:</strong> NLP, LLM, PyTorch, Transformers, Word Prediction, Autoregressive Models, Non-Causal Models </p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur1/Large_Language_Models_Explained" target="_blank">GitHub</a>
                                 <a href="pdf/LLM.pdf" target="_blank">PDF</a>
@@ -323,4 +321,4 @@
         </div>
     </div>
 </body>
-</html>
+</html>_

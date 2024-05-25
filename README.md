@@ -242,7 +242,7 @@
                         <img src="images/AE.jpg" alt="Auto-EncoderOptimizer Cover Photo">
                         <div class="project-info">
                             <h3>Auto-Encoder Neural Network Optimizer</h3>
-                            <p> An auto-encoder neural network featuring a custom optimizer designed to independently optimize the encoder and decoder for enhanced performance, outperforming ADAM in computer vision and other deep learning tasks.</p>
+                            <p> An auto-encoder neural network featuring a custom optimizer designed to independently optimize the encoder and decoder for enhanced performance, outperforming ADAM in computer vision or other deep learning tasks.</p>
                             <p class="keywords"><strong>Keywords:</strong> Autoencoder, Deep Learning, Optimizers, Computer Vision, Python, PyTorch, Autoencoder</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur1/AutoEncoders" target="_blank">GitHub</a>
@@ -267,9 +267,9 @@
                     <div class="project">
                         <img src="images/NLP.jpg" alt="Natural Language Processing Cover Photo">
                         <div class="project-info">
-                            <h3>Large Language Model for NLP</h3>
-                            <p>The transformer architecture of large language models for Natural Languge Processing explained from a mathematical perspective.</p>
-                            <p class="keywords"><strong>Keywords:</strong> NLP, LLM, PyTorch, Transformers</p>
+                            <h3>Large Language Models for NLP</h3>
+                            <p>The transformer neural network architecture of large language models (LLM) for natural languge processing (NLP) explained from a mathematical perspective.</p>
+                            <p class="keywords"><strong>Keywords:</strong> NLP, LLM, PyTorch, Transformers, Word Prediction, Autoregressive Models, Non-Causal Models </p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur1/Large_Language_Models_Explained" target="_blank">GitHub</a>
                                 <a href="pdf/LLM.pdf" target="_blank">PDF</a>
@@ -282,6 +282,7 @@
                         <div class="project-info">
                             <h3>Machine Learning Techniques</h3>
                             <p>Foundational techniques in machine learning for data science with explanations and python code.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Machine Learning Algorithms, Data Science, Data Visualization, Statistical Estimation </p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur1/Machine_Learning_Techniques" target="_blank">GitHub</a>
                             </div>
@@ -292,8 +293,8 @@
                         <img src="images/RSP.jpg" alt="Radar Signal Processing Cover Photo">
                         <div class="project-info">
                             <h3>Radar Signal Processing</h3>
-                            <p>Detecting a moving target using Doppler maps with python code and explanations.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Radar, Detection, Doppler Map, Python</p>
+                            <p>Detecting a moving target using range-Doppler maps with python code and explanations.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Radar Target Detection, Range-Doppler Map, Software Simulations, Traget Tracking</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur1/Radar_Signal_Processing" target="_blank">GitHub</a>
                                 <a href="pdf/Radar_Signal_Processing.pdf" target="_blank">PDF</a>
@@ -305,14 +306,15 @@
                         <img src="images/PL.jpg" alt="Motion Planning Cover Photo">
                         <div class="project-info">
                             <h3>Motion Planning</h3>
-                            <p>Motion and path planning of a robot that maps corners in constant speed, with explanations.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Motion Planning, Path Planning, Non-Smooth</p>
+                            <p>A technique for motion and path planning of a robot that maps sharp corners in constant speed, with explanations.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Motion Planning, Path Planning, Motion Control, Constrained Optimization</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur1/Path_Planning_for_Corner" target="_blank">GitHub</a>
                                 <a href="pdf/PL.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                 </div>
             </div>
         </div>

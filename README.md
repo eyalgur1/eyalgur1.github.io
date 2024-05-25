@@ -183,7 +183,7 @@
                         <div class="project-info">
                             <h3>Wireless Sensor Networks</h3>
                             <p>Fully distributed to fully centralized novel algorithms for locating complex sensor networks.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Centralized and Distributed Optimization, Parallel Computing, Network Simulations, Complexity Analysis</p>
+                            <p class="keywords"><strong>Keywords:</strong> Centralized and Distributed Optimization, Parallel Computing, Network Simulations, Complexity Analysis, MATLAB</p>
                             <div class="links">
                                 <a href="https://ieeexplore.ieee.org/abstract/document/9226609" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur1/Sensor_Network_Localization" target="_blank">GitHub</a>
@@ -242,8 +242,8 @@
                         <img src="images/AE.jpg" alt="Auto-EncoderOptimizer Cover Photo">
                         <div class="project-info">
                             <h3>Auto-Encoder Neural Network Optimizer</h3>
-                            <p An auto-encoder neural network featuring a custom optimizer designed to independently optimize the encoder and decoder for enhanced performance, outperforming ADAM in computer vision and other deep learning tasks.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Deep Learning, Optimizers, Image Processing, Computer Vision, Python</p>
+                            <p> An auto-encoder neural network featuring a custom optimizer designed to independently optimize the encoder and decoder for enhanced performance, outperforming ADAM in computer vision and other deep learning tasks.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Autoencoder, Deep Learning, Optimizers, Computer Vision, Python, PyTorch, Autoencoder</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur1/AutoEncoders" target="_blank">GitHub</a>
                                 <a href="pdf/AE.pdf" target="_blank">PDF</a>
@@ -256,7 +256,7 @@
                         <div class="project-info">
                             <h3>Computer Vision</h3>
                             <p>Algorithms and deep learning techniques for computer vision tasks with explanations and code, following the Hugging Face CV Course.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Deep Learning, Feature Matching, Convolution Neural Networks, Transformers</p>
+                            <p class="keywords"><strong>Keywords:</strong> Deep Learning, Computer Vision, Feature Matching, Feature Extraction, Convolution Neural Networks, Transformers, LoFTR, SIFT algorithm</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur1/Computer_Vision__Huggning_Face_Community_CV_Course" target="_blank">GitHub</a>
                                 <a href="pdf/CV.pdf" target="_blank">PDF</a>

@@ -142,8 +142,8 @@
                         <img src="images/SNL1.jpg" alt="Sensor Network Cover Photo">
                         <div class="project-info">
                             <h3>Fast Sensor Network Localization</h3>
-                            <p>A novel fast distributed and parallel method for wireless sensor network localization with data uncertainty.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Statistical Estimation, Distributed Parallel Computing, Optimization Algorithms</p>
+                            <p>A novel, fast, distributed and parallel algorithm for wireless sensor network localization with data uncertainty.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Statistical Estimation, Distributed Algorithm, Parallel Computing, Optimization Algorithms</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur1/Fast_Network_Localization" target="_blank">GitHub</a>
                                 <a href="pdf/FNL_paper.pdf" target="_blank">PDF</a>
@@ -154,9 +154,9 @@
                     <div class="project">
                         <img src="images/SSL1.jpg" alt="Target Detection Cover Photo">
                         <div class="project-info">
-                            <h3>Target Detection</h3>
-                            <p>Detection of targets with a novel algorithm in an asynchronous environment using TDoA.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Source Localization and Detection, Fast Optimization</p>
+                            <h3>Target Location Estimation</h3>
+                            <p>Finding the position of radiating targets with a novel algorithm in an asynchronous environment using TDoA.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Signal Processing, Source Localization, Target Detection, TDoA</p>
                             <div class="links">
                                 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1051200423001690" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur1/TDoA_Source_Localization" target="_blank">GitHub</a>
@@ -169,8 +169,8 @@
                         <img src="images/SSL2.jpg" alt="Synchronization and Localization Cover Photo">
                         <div class="project-info">
                             <h3>Synchronization and Localization of Targets</h3>
-                            <p>Simultaneously synchronizing and locating source targets with a novel and fast algorithm.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Source Synchronization, Statistical Estimation, Optimization Algorithms</p>
+                            <p>Simultaneously time-synchronizing and locating source targets with a novel and fast algorithm with a distributed implementation.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Clock Synchronization, Statistical Estimation, Optimization Algorithms, ToA, Distributed Networks</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur1/Asynchronous_ToA_Source_Localization" target="_blank">GitHub</a>
                                 <a href="pdf/TOA.pdf" target="_blank">PDF</a>
@@ -181,9 +181,9 @@
                     <div class="project">
                         <img src="images/SNL2.jpg" alt="Wireless Sensor Network Cover Photo">
                         <div class="project-info">
-                            <h3>Wireless Sensor Network Localization</h3>
+                            <h3>Wireless Sensor Networks</h3>
                             <p>Fully distributed to fully centralized novel algorithms for locating complex sensor networks.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Distributed Optimization, Parallel Computing, Network Simulations</p>
+                            <p class="keywords"><strong>Keywords:</strong> Centralized and Distributed Optimization, Parallel Computing, Network Simulations, Complexity Analysis</p>
                             <div class="links">
                                 <a href="https://ieeexplore.ieee.org/abstract/document/9226609" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur1/Sensor_Network_Localization" target="_blank">GitHub</a>
@@ -196,8 +196,8 @@
                         <img src="images/ID.jpg" alt="Image Deblurring Cover Photo">
                         <div class="project-info">
                             <h3>Image Deblurring</h3>
-                            <p>Reconstructing a blurred image with a new algorithm with regularization.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Image Processing, Elastic Net, Image Reconstruction</p>
+                            <p>Reconstructing a blurred image with a new algorithm and elastic net regularization.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Image Processing, Elastic Net, Image Reconstruction, Regression, Non-Convex Optimization</p>
                             <div class="links">
                                 <a href="https://link.springer.com/article/10.1007/s10957-023-02310-4" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur1/Image_Deblurring/tree/main/non_smooth" target="_blank">GitHub</a>
@@ -207,11 +207,11 @@
                     </div>
                     <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
-                        <img src="images/NAM.jpg" alt="Neted Alternating Minimization Cover Photo">
+                        <img src="images/NAM.jpg" alt="Nested Alternating Minimization Cover Photo">
                         <div class="project-info">
                             <h3>Nested Algorithm for Complex Optimization Problems</h3>
                             <p>A novel and practical algorithmic framework that solves non-convex optimization problems by nesting algorithms.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Optimization, Fast Algorithms, Analysis</p>
+                            <p class="keywords"><strong>Keywords:</strong> Continuous Optimization Theory and Analysis, Accelerated Algorithms, Mathematical Optimization, Non-Smooth Optimization</p>
                             <div class="links">
                                 <a href="https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.1256" target="_blank">Full Text</a>
                                 <a href="https://github.com/eyalgur1/Image_Deblurring/tree/main/smooth" target="_blank">GitHub</a>
@@ -224,13 +224,14 @@
                         <img src="images/MDS.jpg" alt="Optimality in Networks Cover Photo">
                         <div class="project-info">
                             <h3>Optimality in Multi-Dimensional Scaling and Networks</h3>
-                            <p>Optimality of solutions in the sensor networks and dimensionality reduction in unsupervised learning.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Heuristics for Optimality, Unsupervised Learning, Sensor Networks, Algorithm Analysis</p>
+                            <p>Optimality of solutions in sensor networks and dimensionality reduction problems in unsupervised learning.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Heuristics for Optimality, Unsupervised Learning, Sensor Networks, Algorithm Analysis, Saddle Points</p>
                             <div class="links">
                                 <a href="pdf/SNL.pdf" target="_blank">PDF</a>
                             </div>
                         </div>
                     </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                 </div>
             </div>
             <div class="section">

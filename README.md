@@ -179,6 +179,7 @@ _<html lang="en">
                             </div>
                         </div>
                     </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/MDS.jpg" alt="Optimality in Networks Cover Photo">
                         <div class="project-info">
@@ -190,7 +191,6 @@ _<html lang="en">
                             </div>
                         </div>
                     </div>
-                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/SNL1.jpg" alt="Sensor Network Cover Photo">
@@ -204,6 +204,7 @@ _<html lang="en">
                             </div>
                         </div>
                     </div>
+                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/NAM.jpg" alt="Nested Alternating Minimization Cover Photo">
                         <div class="project-info">
@@ -217,7 +218,6 @@ _<html lang="en">
                             </div>
                         </div>
                     </div>
-                    <div class="separator"></div> <!-- Add this separator -->
                     <div class="separator"></div> <!-- Add this separator -->
                     <div class="project">
                         <img src="images/SSL2.jpg" alt="Synchronization and Localization Cover Photo">

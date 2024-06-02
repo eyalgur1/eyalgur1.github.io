@@ -1,6 +1,6 @@
 # Site settings
 title: Eyal Gur, Ph.D. – Projects and Publications
-description: I am an algorithm developer and researcher specializing in optimization problems in deep learning, machine learning, signal processing, data science, statistics, operations research, mathematics, and other related domains.<br>I graduated from the Technion, faculty of Data Sciences.
+description: I am an algorithm developer and researcher specializing in optimization problems in deep learning, machine learning, signal processing, data science, statistics, operations research, mathematics, and other related domains.<br><br>>Graduated from the Technion, faculty of Data Sciences.
 theme: jekyll-theme-cayman # Theme name or other theme settings
 
 # Build settings

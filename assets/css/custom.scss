@@ -8,15 +8,7 @@ body {
     font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
 
-/* Reduce space after the header */
-header {
-    margin-bottom: 0; /* Adjust this value to reduce the space */
-    padding-bottom: 0px; /* Adjust this value to reduce the space */
-}
-
-/* Additional styles to ensure proper formatting */
-.site-title,
-.site-description {
-    margin-bottom: 0; /* Adjust this value if needed */
-    padding-bottom: 0; /* Adjust this value if needed */
+/* Reduce space after the .page-header */
+.page-header {
+    margin-bottom: 0px; /* Adjust this value to reduce the space */
 }

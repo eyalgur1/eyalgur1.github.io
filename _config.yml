@@ -5,7 +5,3 @@ theme: jekyll-theme-cayman # Theme name or other theme settings
 
 # Build settings
 markdown: kramdown
-
-# Link to custom SCSS (Jekyll automatically processes SCSS files in the assets/css directory)
-include:
-  - assets/css/custom.scss

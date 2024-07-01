@@ -1,6 +1,6 @@
 # Site settings
 title: Eyal Gur, Ph.D. – Projects and Publications
-description: I am an algorithm developer and researcher specializing in optimization problems in deep learning, machine learning, signal processing, data science, statistics, operations research, mathematics, and other related domains.<br><br>Graduated from the Technion, faculty of Data Sciences.<br><br>Contact information: <a href="https://www.linkedin.com/in/eyal-gur-8a3749160/" target="_blank">LinkedIn page</a> or <a href=mailto:“eyal.gur@mail.huji.ac.il”>Email</a>
+description: I am an algorithm developer and researcher specializing in optimization problems in deep learning, machine learning, signal processing, data science, statistics, operations research, mathematics, and other related domains.<br><br>Graduated from the Technion, faculty of Data Sciences.<br><br>Contact information: <a href="https://www.linkedin.com/in/eyal-gur-8a3749160/" target="_blank">LinkedIn page</a> or <a href=mailto:"eyal.gur@mail.huji.ac.il" target="_blank">Email</a>
 theme: jekyll-theme-cayman # Theme name or other theme settings
 
 # Build settings

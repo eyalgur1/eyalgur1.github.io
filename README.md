@@ -114,7 +114,7 @@
             font-size: 0.9rem;
             color: #777;
         }
-        .links a {
+        .links aa {
             display: inline-block;
             margin-right: 10px;
             color: #343a40;
@@ -131,7 +131,7 @@
 <body>
     <div class="container">
         <div class="bio">
-            <p>My projects, publications and ongoing endeavors – which include links to code repositories with detailed comments and PDF files – are listed below. Feel free to explore the provided links and don't hesitate to reach out to me. via my <a href="https://www.linkedin.com/in/eyal-gur-8a3749160/" target="_blank">LinkedIn page</a> for further information.</p>
+            <p>jjMy projects, publications and ongoing endeavors – which include links to code repositories with detailed comments and PDF files – are listed below. Feel free to explore the provided links and don't hesitate to reach out to me. via my <aa href="https://www.linkedin.com/in/eyal-gur-8a3749160/" target="_blank">LinkedIn page</aa> for further information.</p>
             <p>contact.</p>
         </div>
         <div class="sections-container">

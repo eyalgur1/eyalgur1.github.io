@@ -117,7 +117,7 @@
         .links a {
             display: inline-block;
             margin-right: 10px;
-            /*color: #007bff;*/
+            color: #007bff;
             text-decoration: none;
             transition: color 0.3s;
         }

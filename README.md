@@ -131,7 +131,7 @@
 <body>
     <div class="container">
         <div class="bio">
-            <p>hhhMy projects, publications and ongoing endeavors – which include links to code repositories with detailed comments and PDF files – are listed below. Feel free to explore the provided links and don't hesitate to reach out to me. via my <a href="https://www.linkedin.com/in/eyal-gur-8a3749160/" target="_blank">LinkedIn page</a> for further information.</p>
+            <p>My projects, publications and ongoing endeavors – which include links to code repositories with detailed comments and PDF files – are listed below. Feel free to explore the provided links and don't hesitate to reach out to me. via my <a href="https://www.linkedin.com/in/eyal-gur-8a3749160/" target="_blank">LinkedIn page</a> for further information.</p>
             <p>contact.</p>
         </div>
         <div class="sections-container">

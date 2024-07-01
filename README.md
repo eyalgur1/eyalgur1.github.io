@@ -131,10 +131,10 @@
 <body>
     <div class="container">
         <div class="bio">
-            <p>My projects, publications and ongoing endeavors – which include links to code repositories with detailed comments and PDF files – are listed below. Feel free to explore the provided links and don't hesitate to reach out to me. via my <a href="https://www.linkedin.com/in/eyal-gur-8a3749160/" style="color: cyan;">LinkedIn page</a> for further information.</p>
+            <p>Contact information: <a href="https://www.linkedin.com/in/eyal-gur-8a3749160/">LinkedIn page</a> or <a href=mailto:"eyal.gur@mail.huji.ac.il">Email</a></p>
         </div>
         <div class="bio">
-            <p>fff</p>
+            <p>My projects, publications and ongoing endeavors – which include links to code repositories with detailed comments and PDF files – are listed below. Feel free to explore the provided links and don't hesitate to reach out to me for further information.</p>
         </div>
         <div class="sections-container">
             <div class="section">

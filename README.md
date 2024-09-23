@@ -259,8 +259,8 @@
                         <img src="images/CV.jpg" alt="Computer Vision Cover Photo">
                         <div class="project-info">
                             <h3>Computer Vision</h3>
-                            <p>Algorithms and deep learning techniques for computer vision tasks with explanations and code, following the Hugging Face CV Course.</p>
-                            <p class="keywords"><strong>Keywords:</strong> Deep Learning, Computer Vision, Feature Matching, Feature Extraction, Convolution Neural Networks, Transformers, LoFTR, SIFT algorithm</p>
+                            <p>Algorithms and deep learning techniques for computer vision tasks with elaborated explanations and code.</p>
+                            <p class="keywords"><strong>Keywords:</strong> Deep Learning, Computer Vision, Feature Detection, Convolution Neural Networks, Transformers, LoFTR, SIFT algorithm</p>
                             <div class="links">
                                 <a href="https://github.com/eyalgur1/Computer_Vision__Huggning_Face_Community_CV_Course" target="_blank">GitHub</a>
                                 <a href="pdf/CV.pdf" target="_blank">PDF</a>
